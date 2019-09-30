@@ -146,8 +146,8 @@ window.onload = function () {
    
     
     //Load spritesheets
-    game.load.spritesheet('player', 'chalkers.png', 48, 62);
-    game.load.spritesheet('coin', 'coin.png', 36, 44);
+    game.load.spritesheet('player', 'mikethefrog.png', 32, 32);
+    game.load.spritesheet('coin', 'coin.png', 36, 44); 
     game.load.spritesheet('coin2', 'coin.png', 36, 44);
     game.load.spritesheet('coin3', 'coin.png', 36, 44);
     game.load.spritesheet('coin4', 'coin.png', 36, 44);
